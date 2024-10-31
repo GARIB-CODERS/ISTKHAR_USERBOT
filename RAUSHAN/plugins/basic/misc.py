@@ -57,7 +57,7 @@ async def repo(bot: Client, message: Message):
     await asyncio.sleep(1)
     await message.edit("Fetching Source Code.....")
     await asyncio.sleep(1)
-    await message.edit("SORRY MERI JAAN REPO CHAHIYE TO DM KAR LO @UTTAM470")
+    await message.edit("SORRY MERI JAAN REPO CHAHIYE TO DM KAR LO @ll_THUNDER_lll")
 
 
 @Client.on_message(filters.command("creator", ".") & filters.me)

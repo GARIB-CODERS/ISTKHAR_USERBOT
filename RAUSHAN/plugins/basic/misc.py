@@ -22,9 +22,9 @@ else:
         f"├• **𝐔ᴘᴛɪᴍᴇ**: `{str(datetime.now() - START_TIME).split('.')[0]}`\n"
         f"├• **𝐏ʏᴛʜᴏɴ**: `{python_version()}`\n"
         f"├• **𝐏ʏʀᴏɢʀᴀᴍ**: `{__version__}`\n"
-        f"├• **𝐒ᴜᴘᴘᴏʀᴛ-𝐂ʜᴀᴛ**: [˹ ᴘᴜʀᴠɪ-ᴍᴜsɪᴄ ™˼𓅂](t.me/+OL6jdTL7JAJjYzVl)\n"
-        f"├• **𝐔ᴘᴅᴀᴛᴇs**: [˹ ᴘᴜʀᴠɪ-ᴍᴜsɪᴄ ™˼𓅂](t.me/BABY09_WORLD)\n"
-        f"└• **𝐌ᴀsᴛᴇʀ**: [˹ ᴘᴜʀᴠɪ-ᴍᴜsɪᴄ ™˼𓅂](t.me/UTTAM470)"        
+        f"├• **𝐒ᴜᴘᴘᴏʀᴛ-𝐂ʜᴀᴛ**: [˹ ᴘᴜʀᴠɪ-ᴍᴜsɪᴄ ™˼𓅂](https://t.me/PURVI_SUPPORT)\n"
+        f"├• **𝐔ᴘᴅᴀᴛᴇs**: [˹ ᴘᴜʀᴠɪ-ᴍᴜsɪᴄ ™˼𓅂](https://t.me/+6sKyj7Lma1k2MDFl)\n"
+        f"└• **𝐌ᴀsᴛᴇʀ**: [˹ ᴘᴜʀᴠɪ-ᴍᴜsɪᴄ ™˼𓅂](t.me/ll_THUNDER_lll)"        
     )
 
 @Client.on_message(

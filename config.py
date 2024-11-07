@@ -12,7 +12,7 @@ API_HASH = getenv("API_HASH", "c81ae4c3dc026ea4bf49842a8ce4a5f9") #optional
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "7445883361").split()))
 OWNER_ID = int(getenv("OWNER_ID", "7445883361"))
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://TEAMBABY01:UTTAMRATHORE09@cluster0.vmjl9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-BOT_TOKEN = getenv("BOT_TOKEN", "7308974963:AAEb76LkMiMQ174cFhazX-OV5fRmPpTYKKo")
+BOT_TOKEN = getenv("BOT_TOKEN", "7308974963:AAHaotNlqBa-Y8wNphyo_B53OYLDbBrD_GE")
 ALIVE_PIC = getenv("ALIVE_PIC", 'https://files.catbox.moe/jr5yta.jpg')
 ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
